@@ -5,10 +5,10 @@ This class detects the language (from url, session, cookie and browser) and then
 
 Usage
 
-1. Download a Language Switch from the git repository
+1. Download class from git
 --
 
-2. Include LanguageSwitch.php and config.php into your code
+2. Include class and config into your code
 --
 (autoload or require_once)
 
