@@ -5,18 +5,34 @@ This class detects the language (from url, session, cookie and browser) and then
 
 Usage
 
-1. Download class from git
+1. Download
 --
+
+Git: `https://github.com/vades/php-language.git`
+
+Composer:
+        <?php
+        
+                {
+                    "require": {
+                       "vades/php-language": "dev-master"
+                    }
+                }
+
+         ?>
 
 2. Include class and config into your code
 --
-(autoload or require_once)
 
 `require_once '../src/Vades/Language/LanguageSwitch.php';`
 
 `$cfg = require_once '../src/Vades/Language/config.php';';`
 
 `use \Vades\Language\LanguageSwitch;`
+
+OR autoload with Composer
+
+`require 'vendor/autoload.php';`
 
 3. Set values in config file config.php
 --
