@@ -10,16 +10,7 @@ Usage
 
 Git: `https://github.com/vades/php-language.git`
 
-Composer:
-        <?php
-        
-                {
-                    "require": {
-                       "vades/php-language": "dev-master"
-                    }
-                }
-
-         ?>
+Composer: `{"require": {"vades/php-language": "dev-master"} }`
 
 2. Include class and config into your code
 --
