@@ -116,7 +116,7 @@ class LanguageSwitch {
     }
     
     /**
-     * Check if languagle is supported
+     * Check if language is supported
      * 
      * @param string $language
      * @return boolean
