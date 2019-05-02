@@ -6,8 +6,7 @@ namespace Vades\Language;
  * Switch between detected languages and set a current one
  *
  * @version 1.0
- * @author Martin Vach <info@vades.cz>
- * @copyright Martin Vach
+ * @author Martin Vach
  */
 class LanguageSwitch {
     /**
